@@ -1,0 +1,6 @@
+@Cnoel.XyzBoutique_HostAddress = http://localhost:5052
+
+GET {{Cnoel.XyzBoutique_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

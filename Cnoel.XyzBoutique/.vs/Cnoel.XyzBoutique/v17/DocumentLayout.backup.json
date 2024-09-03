@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Ejercicio T\u00E9cnico\\Repo\\Cnoel.XyzBoutique\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B05D8C6C-18F7-4980-A167-678FD9B697F2}|..\\Cnoel.XyzBoutique.Tests\\Cnoel.XyzBoutique.Tests.csproj|c:\\users\\user\\desktop\\ejercicio t\u00E9cnico\\repo\\cnoel.xyzboutique.tests\\pedidoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61EFE47-A28A-4CB5-8630-CF5C5B53C1BE}|Cnoel.XyzBoutique.csproj|c:\\users\\user\\desktop\\ejercicio t\u00E9cnico\\repo\\cnoel.xyzboutique\\repositories.interfaces\\iestadopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61EFE47-A28A-4CB5-8630-CF5C5B53C1BE}|Cnoel.XyzBoutique.csproj|solutionrelative:repositories.interfaces\\iestadopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61EFE47-A28A-4CB5-8630-CF5C5B53C1BE}|Cnoel.XyzBoutique.csproj|c:\\users\\user\\desktop\\ejercicio t\u00E9cnico\\repo\\cnoel.xyzboutique\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61EFE47-A28A-4CB5-8630-CF5C5B53C1BE}|Cnoel.XyzBoutique.csproj|solutionrelative:services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 16,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEstadoPedido.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Ejercicio T\u00E9cnico\\Repo\\Cnoel.XyzBoutique\\Repositories.Interfaces\\IEstadoPedido.cs",
+              "RelativeDocumentMoniker": "Repositories.Interfaces\\IEstadoPedido.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Ejercicio T\u00E9cnico\\Repo\\Cnoel.XyzBoutique\\Repositories.Interfaces\\IEstadoPedido.cs",
+              "RelativeToolTip": "Repositories.Interfaces\\IEstadoPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T22:53:02.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedidoServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Ejercicio T\u00E9cnico\\Repo\\Cnoel.XyzBoutique.Tests\\PedidoServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\Cnoel.XyzBoutique.Tests\\PedidoServiceTests.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Ejercicio T\u00E9cnico\\Repo\\Cnoel.XyzBoutique.Tests\\PedidoServiceTests.cs",
+              "RelativeToolTip": "..\\Cnoel.XyzBoutique.Tests\\PedidoServiceTests.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:24:03.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Ejercicio T\u00E9cnico\\Repo\\Cnoel.XyzBoutique\\Services\\PedidoService.cs",
+              "RelativeDocumentMoniker": "Services\\PedidoService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Ejercicio T\u00E9cnico\\Repo\\Cnoel.XyzBoutique\\Services\\PedidoService.cs",
+              "RelativeToolTip": "Services\\PedidoService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:15:22.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

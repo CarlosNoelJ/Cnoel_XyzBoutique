@@ -4264,11 +4264,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Ejercicio Técnico\\Repo\\Cnoel.XyzBoutique\\Cnoel.XyzBoutique.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Ejercicio Técnico\\Carlos-Noel\\Cnoel.XyzBoutique\\Cnoel.XyzBoutique.csproj",
       "projectName": "Cnoel.XyzBoutique",
-      "projectPath": "C:\\Users\\user\\Desktop\\Ejercicio Técnico\\Repo\\Cnoel.XyzBoutique\\Cnoel.XyzBoutique.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\Ejercicio Técnico\\Carlos-Noel\\Cnoel.XyzBoutique\\Cnoel.XyzBoutique.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Ejercicio Técnico\\Repo\\Cnoel.XyzBoutique\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Ejercicio Técnico\\Carlos-Noel\\Cnoel.XyzBoutique\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cnoel.XyzBoutique")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fafe6d43d4b9f586fe9c762aa00d0a4adf306d67")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cnoel.XyzBoutique")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cnoel.XyzBoutique")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
